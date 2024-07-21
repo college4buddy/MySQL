@@ -7,7 +7,6 @@ USE 'Company_and_Rec';
 
 
 
-
 CREATE TABLE employee_demographics (
   employee_id INT NOT NULL,
   first_name VARCHAR(50),
